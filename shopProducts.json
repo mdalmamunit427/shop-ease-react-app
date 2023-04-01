@@ -1,0 +1,80 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "category": "Women's Cloth",
+        "name": "Women's Essential Insulated Bib Overalls",
+        "seller": "Arctix",
+        "price": 49,
+        "stock": 20,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b3bcaaa457",
+        "category": "Women's Cloth",
+        "name": "The Drop Women's Blake Long Blazer",
+        "seller": "The Drop",
+        "price": 74,
+        "stock": 40,
+        "ratings": 4.5,
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=420&q=80",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-c77b3bcabb213",
+        "category": "Women's Cloth",
+        "name": "Casual Loose Flowy Swing Shift Dresses",
+        "seller": "Amoretu",
+        "price": 31.74,
+        "stock": 40,
+        "ratings": 4.5,
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1562704481-1d76a4b04ff9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "shipping": 2,
+        "quantity": 0
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-d77b3bcabcc751",
+        "category": "Women's Cloth",
+        "name": "Women's Lightweight Vee Cardigan Dresses",
+        "seller": "Amazon Essentials",
+        "price": 21.74,
+        "stock": 30,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-d77b3bcabcc751",
+        "category": "Women's Cloth",
+        "name": "Crew Neck Smocked Elastic Waist Tiered Midi Dress",
+        "seller": "ZESICA",
+        "price": 48,
+        "stock": 30,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1550614000-4895a10e1bfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-d77b3bcabcc751",
+        "category": "Women's Cloth",
+        "name": "Women's Wild Pursuit Short Overall",
+        "seller": "Billabong Store",
+        "price": 43,
+        "stock": 35,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1601762603339-fd61e28b698a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "shipping": 2,
+        "quantity": 0
+    }
+]
